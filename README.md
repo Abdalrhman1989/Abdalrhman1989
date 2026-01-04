@@ -3,7 +3,7 @@
 ## 🌟 About Me
 I'm a passionate and creative individual focused on web development, branding, and graphic communication. I have a background in multimedia design and film & TV production. I thrive on building brand identities and developing web-based solutions. I love coding and technologies, flying drones, and exploring new languages and cultures.
 
-[![Watch my video](https://img.youtube.com/vi/4cAZ8Ee2ydk/maxresdefault.jpg)](https://www.youtube.com/live/4cAZ8Ee2ydk?si=bmQFWUyrWgpG-zTL) <!-- Replace the URL if necessary -->
+[![Watch my video]([https://img.youtube.com/vi/4cAZ8Ee2ydk/maxresdefault.jpg)](https://www.youtube.com/live/4cAZ8Ee2ydk?si=bmQFWUyrWgpG-zTL](https://youtu.be/201YsMDR124?si=YcDZ1VfQm6zlgVVM)) <!-- Replace the URL if necessary -->
 
 ## 💡 Skills & Technologies
 - **Web & Backend Development:** HTML, CSS, JavaScript, Vue.js, React.js, ASP.NET, C#, Python, Django, Flask, Dart, Flutter, Next.js, Express.js, Node.js
